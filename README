@@ -1,3 +1,5 @@
+#instalar Node JS revisar la siguiente URL: https://nodejs.org/en/download/package-manager
+
 #Dependencias a instalar
 
 npm install --save express
