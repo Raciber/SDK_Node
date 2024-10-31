@@ -4,5 +4,7 @@ npm install --save express
 npm install --save dotenv
 npm install --save mercadopago
 
+# crear el archivo de ambiente como registro con el nombre .env a partir de la plantilla_env
+
 # Ejecutar funciones
 node biblioteca/nombre_del_archivo.js
