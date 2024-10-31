@@ -1,0 +1,8 @@
+#Dependencias a instalar
+
+npm install --save express
+npm install --save dotenv
+npm install --save mercadopago
+
+# Ejecutar funciones
+node biblioteca/nombre_del_archivo.js
